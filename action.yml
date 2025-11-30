@@ -1,4 +1,4 @@
-name: "Podcast Generator"
+name: "Podcast Generator: A LinkedIn Activity"
 author: "Gian Mari Ramos"
 description: "Generates a feed from a YAML file"
 runs:
